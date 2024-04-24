@@ -36,7 +36,7 @@ However, I enjoyed the process of making a whole website from scratch understand
 <img src="https://cdn.glitch.global/01e95c38-7217-4c79-96df-fc664c4e3f2f/tel%203.jpg?v=1713939685342" width="500" height="600">
 
 ## Resource annotation
-<img src="https://cdn.glitch.global/01e95c38-7217-4c79-96df-fc664c4e3f2f/Untitled-1.jpg?v=1713939691471" width="500" height="800">
+<img src="https://cdn.glitch.global/01e95c38-7217-4c79-96df-fc664c4e3f2f/Untitled-1.jpg?v=1713939691471" width="500" height="650">
 
 ## Bibliography 
 * Kingsborough E-Learning. (2018). How to add a Creative Commons license to your work. Www.youtube.com. https://www.youtube.com/watch?v=5QxkuuiZwRU
